@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|d:\\.netprojeler\\projeler\\carauctionbids\\carauctionbids\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|solutionrelative:carauctionbids\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|d:\\.netprojeler\\projeler\\carauctionbids\\carauctionbids\\hubs\\bidupdatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|solutionrelative:carauctionbids\\hubs\\bidupdatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|d:\\.netprojeler\\projeler\\carauctionbids\\carauctionbids\\hubs\\connectionmanagament\\iconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|solutionrelative:carauctionbids\\hubs\\connectionmanagament\\iconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|d:\\.netprojeler\\projeler\\carauctionbids\\carauctionbids\\hubs\\connectionmanagament\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF4B3D-E86B-4DC6-B50C-F7092DD72912}|CarAuctionBids\\CarAuctionBids.csproj|solutionrelative:carauctionbids\\hubs\\connectionmanagament\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "CarAuctionBids\\Controllers\\VehicleController.cs",
+              "ToolTip": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "CarAuctionBids\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:03:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\ConnectionManagament\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "CarAuctionBids\\Hubs\\ConnectionManagament\\ConnectionManager.cs",
+              "ToolTip": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\ConnectionManagament\\ConnectionManager.cs",
+              "RelativeToolTip": "CarAuctionBids\\Hubs\\ConnectionManagament\\ConnectionManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:36:00.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConnectionManager.cs",
+              "DocumentMoniker": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\ConnectionManagament\\IConnectionManager.cs",
+              "RelativeDocumentMoniker": "CarAuctionBids\\Hubs\\ConnectionManagament\\IConnectionManager.cs",
+              "ToolTip": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\ConnectionManagament\\IConnectionManager.cs",
+              "RelativeToolTip": "CarAuctionBids\\Hubs\\ConnectionManagament\\IConnectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:35:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BidUpdateHub.cs",
+              "DocumentMoniker": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\BidUpdateHub.cs",
+              "RelativeDocumentMoniker": "CarAuctionBids\\Hubs\\BidUpdateHub.cs",
+              "ToolTip": "D:\\.NetProjeler\\Projeler\\CarAuctionBids\\CarAuctionBids\\Hubs\\BidUpdateHub.cs",
+              "RelativeToolTip": "CarAuctionBids\\Hubs\\BidUpdateHub.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:36:28.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

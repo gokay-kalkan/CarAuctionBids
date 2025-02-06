@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RIV8ThxsZ7Nh+d1XCVt4JFwycNVoNZBL7ixQyiVlbtg=",
+  "Source": "CarAuctionBids",
+  "BasePath": "_content/CarAuctionBids",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

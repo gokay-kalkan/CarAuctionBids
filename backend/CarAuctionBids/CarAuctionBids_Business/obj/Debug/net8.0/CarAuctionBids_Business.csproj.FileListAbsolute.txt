@@ -1,0 +1,17 @@
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_Business.deps.json
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_Business.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_Business.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.AssemblyInfoInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.AssemblyInfo.cs
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.csproj.CoreCompileInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\refint\CarAuctionBids_Business.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\ref\CarAuctionBids_Business.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_Core.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_DataAccess.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_Core.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\bin\Debug\net8.0\CarAuctionBids_DataAccess.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAuctionBids_Business.csproj.AssemblyReference.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Business\obj\Debug\net8.0\CarAucti.87AB0774.Up2Date

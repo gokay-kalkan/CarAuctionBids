@@ -1,0 +1,14 @@
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\bin\Debug\net8.0\CarAuctionBids_DataAccess.deps.json
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\bin\Debug\net8.0\CarAuctionBids_DataAccess.runtimeconfig.json
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\bin\Debug\net8.0\CarAuctionBids_DataAccess.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\bin\Debug\net8.0\CarAuctionBids_DataAccess.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.csproj.AssemblyReference.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.AssemblyInfoInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.AssemblyInfo.cs
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.csproj.CoreCompileInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\refint\CarAuctionBids_DataAccess.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\CarAuctionBids_DataAccess.genruntimeconfig.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_DataAccess\obj\Debug\net8.0\ref\CarAuctionBids_DataAccess.dll

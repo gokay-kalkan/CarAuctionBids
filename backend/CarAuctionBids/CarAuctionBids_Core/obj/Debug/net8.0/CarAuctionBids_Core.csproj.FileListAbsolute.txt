@@ -1,0 +1,12 @@
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\bin\Debug\net8.0\CarAuctionBids_Core.deps.json
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\bin\Debug\net8.0\CarAuctionBids_Core.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\bin\Debug\net8.0\CarAuctionBids_Core.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.AssemblyInfoInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.AssemblyInfo.cs
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.csproj.CoreCompileInputs.cache
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\refint\CarAuctionBids_Core.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.pdb
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\ref\CarAuctionBids_Core.dll
+D:\.NetProjeler\Projeler\CarAuctionBids\CarAuctionBids_Core\obj\Debug\net8.0\CarAuctionBids_Core.csproj.AssemblyReference.cache
