@@ -1,1 +1,22 @@
-Bu proje araçların açık arttırma sistemi ile teklif verip satıldığı bir web yazılım projesi. Projede Backend tarafı .Net 8.0 ile 4 farklı katmandan oluşmaktadır. Frontend tarafı ise React typescript ile tasarlandı. Projede admin, satıcı ve normal kullanıcı olarak 3 rol bulunmaktadır. Veri tabanı olarak MSSQL kullanılmıştır. Kullanıcılar anasayfa da araçların listesini görür aracın ihale için geçerli bir tarih ve süresi geri sayım olarak gösterilir,  daha sonra ihaleye katılabilmek için bir ön ödeme yapar.  Bu araca ön ödeme yapan kullanıcı stripe ödeme sistemi ie ödemesini gerçekleştirir ve ön ödemeden sonra araç detayında bu araca diğer kullanıcılar tarafından verilen en yüksek tekliften en düşüğüne doğru bir sıralama anlık olarak gerçekleşir yani anlık olarak o araca o an hangi kullanıcı teklif veriyorsa bunlar o kullanıcının önüne anlık yansır bu kısımda SignalR teknolojisinden yararlanıldı. Genel olarak projede toparlayacak olursak .NET 8.0 Api, Katmanlı Mimari, Code First, Json Web Token, Dto, Stripe Payment, Auto Mapper, SignalR, React TypeScript teknolojileri kullanıldı.
+ Teknolojiler:
+Backend: .NET 8.0, Katmanlı Mimari, Code First EF Core, JWT Authentication, AutoMapper, SignalR
+Frontend: React + TypeScript
+Ödeme: Stripe Payment
+Veritabanı: MSSQL
+
+Roller:
+Admin, Satıcı, Kullanıcı
+
+Özellikler:
+Araç listeleme ve filtreleme
+
+Her araca özel ihale süresi ve geri sayım
+
+Ödeme sonrası teklif verebilme (Stripe)
+
+SignalR ile anlık teklif güncellemeleri
+
+Rol bazlı erişim yönetimi
+
+API üzerinde Swagger dokümantasyonu
+
